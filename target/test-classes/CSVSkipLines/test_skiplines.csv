@@ -1,6 +1,6 @@
-Skip1,Skip2,Skip3,Skip4(1.this is a skip row 2.same column name auto rename, showed next line)
+xxxxxxxxxxxxxxxxxxx(skip line one)(1.this is a skip row 2.same column name auto rename, showed next line.)
 ,,aAILL,aAILL
-,,DEG,DEG(this is a skip row)
+,,DEG,DEG(skip line two)
 52,,0.22,0.22
 53,,0.19,0.19
 54,,0.22,0.19
